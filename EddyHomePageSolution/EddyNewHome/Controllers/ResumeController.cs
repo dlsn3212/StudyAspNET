@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace EddyNewHome.Controllers
 {
-    public class EddyHomeController : Controller
+    public class ResumeController : Controller
     {
-        // GET: EddyHome
+        // GET: Resume
         public ActionResult Index()
         {
             return View();

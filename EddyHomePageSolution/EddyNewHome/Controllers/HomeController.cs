@@ -26,5 +26,10 @@ namespace EddyNewHome.Controllers
 
             return View();
         }
+
+        public ActionResult Feedback()
+        {
+            return View();
+        }
     }
 }
